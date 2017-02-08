@@ -2,10 +2,10 @@
 layout: main
 ---
 
-# [](#programs)Programs
-
-### [](#ffurls)ffurls
+## [](#ffurls)ffurls
 [Go to project](https://github.com/freeprogs/ffurls)
+
+#### [](#desc)Description
 
 Saves tabs opened in Firefox to a file in some format.
 
@@ -13,7 +13,7 @@ It takes Firefox file with actual configuration of opened tabs and
 windows, finds titles and urls there and saves these pairs to a file
 in a selected format.
 
-#### [](#Example)Example
+#### [](#example)Example
 
 1) You have opened tabs, but you want to watch them after some work.
 
