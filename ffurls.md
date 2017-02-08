@@ -5,6 +5,7 @@ layout: main
 # [](#programs)Programs
 
 ### [](#ffurls)ffurls
+[Go to project](https://github.com/freeprogs/ffurls)
 
 Saves tabs opened in Firefox to a file in some format.
 
@@ -22,7 +23,7 @@ in a selected format.
 
 [![](./assets/images/ffurls/screen-mini-ffurls2.png)](./assets/images/ffurls/screen-ffurls2.png)
 
-3) Then after some work you open the Download folder.
+3) Then after some work you open the Downloads folder.
 
 [![](./assets/images/ffurls/screen-mini-ffurls3.png)](./assets/images/ffurls/screen-ffurls3.png)
 
