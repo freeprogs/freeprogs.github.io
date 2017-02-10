@@ -5,7 +5,7 @@ layout: main
 # [](#programs)Programs
 
 ### [](#ffurls)ffurls
-[Go to project](https://github.com/freeprogs/ffurls)
+[Go to the project](https://github.com/freeprogs/ffurls)
 
 Saves tabs opened in Firefox to a file in some format.
 
