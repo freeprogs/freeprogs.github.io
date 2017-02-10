@@ -3,7 +3,7 @@ layout: main
 ---
 
 ## [](#ffurls)ffurls
-[Go to project](https://github.com/freeprogs/ffurls)
+[Go to the project](https://github.com/freeprogs/ffurls)
 
 #### [](#desc)Description
 
