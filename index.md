@@ -14,3 +14,13 @@ windows, finds titles and urls there and saves these pairs to a file
 in a selected format.
 
 [Details...](ffurls)
+
+### [](#checkmail)checkmail
+[Go to the project](https://github.com/freeprogs/checkmail)
+
+Checks mail for incoming messages.
+
+If some mail has come it prints number of messages in the box and some
+message headers like sender address and subject.
+
+[Details...](checkmail)
