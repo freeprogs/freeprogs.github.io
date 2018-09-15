@@ -21,7 +21,7 @@ in a selected format.
 
 [![](./assets/images/ffurls/screen-mini-ffurls1.png)](./assets/images/ffurls/screen-ffurls1.png)
 
-2) You open a console and run one of shell-scripts or the default shell-script.
+2) You open a console and run the shell-script with a parameter for the output format.
 
 [![](./assets/images/ffurls/screen-mini-ffurls2.png)](./assets/images/ffurls/screen-ffurls2.png)
 
