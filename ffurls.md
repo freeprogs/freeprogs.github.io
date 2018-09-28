@@ -21,15 +21,29 @@ in a selected format.
 
 [![](./assets/images/ffurls/screen-mini-ffurls-browser.png)](./assets/images/ffurls/screen-ffurls-browser.png)
 
-2) You open a console and run the shell-script with a parameter for the output format.
+2) Make your own settings of the program configuration
+
+The configuration in /usr/local/etc/ffurls.conf for all users in the operating system is
+
+[![](./assets/images/ffurls/screen-mini-ffurls-configetc.png)](./assets/images/ffurls/screen-ffurls-configetc.png)
+
+You create the config file ~/.ffurls.conf in your home directory
+
+[![](./assets/images/ffurls/screen-mini-ffurls-confighome.png)](./assets/images/ffurls/screen-ffurls-confighome.png)
+
+This file replaces some settings from the general config.
+
+3) You open a console and run the shell-script with a parameter for the output format.
 
 [![](./assets/images/ffurls/screen-mini-ffurls-console.png)](./assets/images/ffurls/screen-ffurls-console.png)
 
-3) Then after some work you open the Downloads folder.
+If you run the shell-script without parameters the program uses default settings from the config file.
+
+4) Then after some work you open the Downloads folder.
 
 [![](./assets/images/ffurls/screen-mini-ffurls-manager.png)](./assets/images/ffurls/screen-ffurls-manager.png)
 
-4) You open the file with saved tabs.
+5) You open the file with saved tabs.
 
 Text format.
 
